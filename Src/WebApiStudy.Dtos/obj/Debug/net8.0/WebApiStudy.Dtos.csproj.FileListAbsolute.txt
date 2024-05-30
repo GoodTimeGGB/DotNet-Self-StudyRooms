@@ -1,0 +1,13 @@
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.AssemblyInfoInputs.cache
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.AssemblyInfo.cs
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.csproj.CoreCompileInputs.cache
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.sourcelink.json
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\bin\Debug\net8.0\WebApiStudy.Dtos.deps.json
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\bin\Debug\net8.0\WebApiStudy.Dtos.dll
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\bin\Debug\net8.0\WebApiStudy.Dtos.pdb
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.csproj.AssemblyReference.cache
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.dll
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\refint\WebApiStudy.Dtos.dll
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.pdb
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\ref\WebApiStudy.Dtos.dll

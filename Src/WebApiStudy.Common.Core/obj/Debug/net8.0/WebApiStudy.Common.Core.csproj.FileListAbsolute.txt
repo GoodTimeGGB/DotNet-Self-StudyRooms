@@ -1,0 +1,12 @@
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\bin\Debug\net8.0\WebApiStudy.Common.Core.deps.json
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\bin\Debug\net8.0\WebApiStudy.Common.Core.dll
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\bin\Debug\net8.0\WebApiStudy.Common.Core.pdb
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\WebApiStudy.Common.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\WebApiStudy.Common.Core.AssemblyInfoInputs.cache
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\WebApiStudy.Common.Core.AssemblyInfo.cs
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\WebApiStudy.Common.Core.csproj.CoreCompileInputs.cache
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\WebApiStudy.Common.Core.sourcelink.json
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\WebApiStudy.Common.Core.dll
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\refint\WebApiStudy.Common.Core.dll
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\WebApiStudy.Common.Core.pdb
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\ref\WebApiStudy.Common.Core.dll
