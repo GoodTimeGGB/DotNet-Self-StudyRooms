@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiStudy.Dtos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+833f180b2a6d043f7d2a66b3f653b3357c53e1a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1317a92d985e0f2398e2bb1964cb48b3c434a6be")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiStudy.Dtos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiStudy.Dtos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

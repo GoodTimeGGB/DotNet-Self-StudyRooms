@@ -11,3 +11,16 @@ D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebAp
 D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\refint\WebApiStudy.Dtos.dll
 D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.pdb
 D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\ref\WebApiStudy.Dtos.dll
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\bin\Debug\net8.0\WebApiStudy.Dtos.deps.json
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\bin\Debug\net8.0\WebApiStudy.Dtos.dll
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\bin\Debug\net8.0\WebApiStudy.Dtos.pdb
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.csproj.AssemblyReference.cache
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.AssemblyInfoInputs.cache
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.AssemblyInfo.cs
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.csproj.CoreCompileInputs.cache
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.sourcelink.json
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.dll
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\refint\WebApiStudy.Dtos.dll
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\WebApiStudy.Dtos.pdb
+E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Dtos\obj\Debug\net8.0\ref\WebApiStudy.Dtos.dll

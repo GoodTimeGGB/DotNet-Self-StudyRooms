@@ -4866,20 +4866,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\cbmnet\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Study\\DotNet-Self-StudyRooms\\Src\\WebAppStudy\\WebApiStudy.Api.csproj",
+      "projectUniqueName": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy\\WebApiStudy.Api.csproj",
       "projectName": "WebApiStudy.Api",
-      "projectPath": "D:\\Work\\Study\\DotNet-Self-StudyRooms\\Src\\WebAppStudy\\WebApiStudy.Api.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Study\\DotNet-Self-StudyRooms\\Src\\WebAppStudy\\obj\\",
+      "projectPath": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy\\WebApiStudy.Api.csproj",
+      "packagesPath": "C:\\Users\\cbmnet\\.nuget\\packages\\",
+      "outputPath": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\cbmnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -4887,14 +4897,15 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Work\\Study\\DotNet-Self-StudyRooms\\Src\\WebAppStudy.Service\\WebApiStudy.Service.csproj": {
-              "projectPath": "D:\\Work\\Study\\DotNet-Self-StudyRooms\\Src\\WebAppStudy.Service\\WebApiStudy.Service.csproj"
+            "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy.Service\\WebApiStudy.Service.csproj": {
+              "projectPath": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy.Service\\WebApiStudy.Service.csproj"
             }
           }
         }
@@ -4938,7 +4949,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
