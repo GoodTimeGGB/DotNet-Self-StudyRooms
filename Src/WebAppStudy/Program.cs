@@ -1,3 +1,4 @@
+using WebApiStudy.Common.Core.Middleware;
 using WebApiStudy.Service;
 using WebApiStudy.Service.Interface;
 
@@ -10,8 +11,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// 注入Service
+// 注册Service
 builder.Services.AddScoped<IMyService, MyService>();
+// 注册Filter
+builder.Services.AddControllers(options => {
+    options.Filters.Add<MyFilter>();
+});
 
 var app = builder.Build();
 
@@ -29,3 +34,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+// 注册中间件
+app.UseMiddleware<CustomExceptionHandlerMiddleware>();

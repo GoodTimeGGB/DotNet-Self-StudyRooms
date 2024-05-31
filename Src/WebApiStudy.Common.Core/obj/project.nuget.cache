@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "4oIvvv73LKTRXy2Tcc3z2FvKtxnEHXlJ+FwrI+d/fqXzWjFGVke93lSy2tFuYoYLrot8rLuUKnSZcRXLNClPeQ==",
+  "dgSpecHash": "S2SXmrAkh+GboFJreOOUSe4q9PjSPLZbxNMu1mjQLx6PH3/clEPWm5M/BPwsoh2/uGw3STY3huRWIf+YFB+52A==",
   "success": true,
   "projectFilePath": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebApiStudy.Common.Core\\WebApiStudy.Common.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\cbmnet\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\cbmnet\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\cbmnet\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\cbmnet\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\cbmnet\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

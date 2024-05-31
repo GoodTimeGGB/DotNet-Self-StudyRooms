@@ -3,27 +3,40 @@
   "WorkspaceRootPath": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A644B538-C2CB-4D23-A77F-63353314917B}|WebApiStudy.Dtos\\WebApiStudy.Dtos.csproj|e:\\personalproject\\dotnet-self-studyrooms\\src\\webapistudy.dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A644B538-C2CB-4D23-A77F-63353314917B}|WebApiStudy.Dtos\\WebApiStudy.Dtos.csproj|solutionrelative:webapistudy.dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC31AAD7-3808-4002-ACE6-62722690037A}|WebAppStudy.Service\\WebApiStudy.Service.csproj|E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\webappstudy.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC31AAD7-3808-4002-ACE6-62722690037A}|WebAppStudy.Service\\WebApiStudy.Service.csproj|solutionrelative:webappstudy.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7CBB9B6D-A745-4F11-8555-0743176BB516}|WebAppStudy\\WebApiStudy.Api.csproj|E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\webappstudy\\controllers\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CBB9B6D-A745-4F11-8555-0743176BB516}|WebAppStudy\\WebApiStudy.Api.csproj|solutionrelative:webappstudy\\controllers\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC31AAD7-3808-4002-ACE6-62722690037A}|WebAppStudy.Service\\WebApiStudy.Service.csproj|E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\webappstudy.service\\webapistudy.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DC31AAD7-3808-4002-ACE6-62722690037A}|WebAppStudy.Service\\WebApiStudy.Service.csproj|solutionrelative:webappstudy.service\\webapistudy.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{93F6F802-2609-4C6F-80FF-0B20F6B47A9A}|WebApiStudy.Common.Core\\WebApiStudy.Common.Core.csproj|e:\\personalproject\\dotnet-self-studyrooms\\src\\webapistudy.common.core\\middleware\\customexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F6F802-2609-4C6F-80FF-0B20F6B47A9A}|WebApiStudy.Common.Core\\WebApiStudy.Common.Core.csproj|solutionrelative:webapistudy.common.core\\middleware\\customexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC31AAD7-3808-4002-ACE6-62722690037A}|WebAppStudy.Service\\WebApiStudy.Service.csproj|e:\\personalproject\\dotnet-self-studyrooms\\src\\webappstudy.service\\myfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC31AAD7-3808-4002-ACE6-62722690037A}|WebAppStudy.Service\\WebApiStudy.Service.csproj|solutionrelative:webappstudy.service\\myfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC31AAD7-3808-4002-ACE6-62722690037A}|WebAppStudy.Service\\WebApiStudy.Service.csproj|e:\\personalproject\\dotnet-self-studyrooms\\src\\webappstudy.service\\myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC31AAD7-3808-4002-ACE6-62722690037A}|WebAppStudy.Service\\WebApiStudy.Service.csproj|solutionrelative:webappstudy.service\\myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CBB9B6D-A745-4F11-8555-0743176BB516}|WebAppStudy\\WebApiStudy.Api.csproj|E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\webappstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CBB9B6D-A745-4F11-8555-0743176BB516}|WebAppStudy\\WebApiStudy.Api.csproj|solutionrelative:webappstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\work\\study\\dotnet-self-studyrooms\\webapistudy.dataaccess\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC31AAD7-3808-4002-ACE6-62722690037A}|WebAppStudy.Service\\WebApiStudy.Service.csproj|E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\webappstudy.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC31AAD7-3808-4002-ACE6-62722690037A}|WebAppStudy.Service\\WebApiStudy.Service.csproj|solutionrelative:webappstudy.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD2EF32-53F2-44E7-8DD1-BB33A40BBDDF}|WebApiStudy.DataAccess\\WebApiStudy.DataAccess.csproj|e:\\personalproject\\dotnet-self-studyrooms\\src\\webapistudy.dataaccess\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD2EF32-53F2-44E7-8DD1-BB33A40BBDDF}|WebApiStudy.DataAccess\\WebApiStudy.DataAccess.csproj|solutionrelative:webapistudy.dataaccess\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD2EF32-53F2-44E7-8DD1-BB33A40BBDDF}|WebApiStudy.DataAccess\\WebApiStudy.DataAccess.csproj|e:\\personalproject\\dotnet-self-studyrooms\\src\\webapistudy.dataaccess\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD2EF32-53F2-44E7-8DD1-BB33A40BBDDF}|WebApiStudy.DataAccess\\WebApiStudy.DataAccess.csproj|solutionrelative:webapistudy.dataaccess\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A644B538-C2CB-4D23-A77F-63353314917B}|WebApiStudy.Dtos\\WebApiStudy.Dtos.csproj|e:\\personalproject\\dotnet-self-studyrooms\\src\\webapistudy.dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A644B538-C2CB-4D23-A77F-63353314917B}|WebApiStudy.Dtos\\WebApiStudy.Dtos.csproj|solutionrelative:webapistudy.dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,52 +70,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "CustomExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebApiStudy.Common.Core\\Middleware\\CustomExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApiStudy.Common.Core\\Middleware\\CustomExceptionHandlerMiddleware.cs",
+              "ToolTip": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebApiStudy.Common.Core\\Middleware\\CustomExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "WebApiStudy.Common.Core\\Middleware\\CustomExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:02:03.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyFilter.cs",
+              "DocumentMoniker": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy.Service\\MyFilter.cs",
+              "RelativeDocumentMoniker": "WebAppStudy.Service\\MyFilter.cs",
+              "ToolTip": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy.Service\\MyFilter.cs",
+              "RelativeToolTip": "WebAppStudy.Service\\MyFilter.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBAwDAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:03:31.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyService.cs",
+              "DocumentMoniker": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy.Service\\MyService.cs",
+              "RelativeDocumentMoniker": "WebAppStudy.Service\\MyService.cs",
+              "ToolTip": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy.Service\\MyService.cs",
+              "RelativeToolTip": "WebAppStudy.Service\\MyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:02:58.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebApiStudy.DataAccess\\Model\\Order.cs",
               "RelativeDocumentMoniker": "WebApiStudy.DataAccess\\Model\\Order.cs",
               "ToolTip": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebApiStudy.DataAccess\\Model\\Order.cs",
               "RelativeToolTip": "WebApiStudy.DataAccess\\Model\\Order.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:39:08.606Z"
+              "WhenOpened": "2024-05-31T01:59:26.017Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebApiStudy.DataAccess\\IRepository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "WebApiStudy.DataAccess\\IRepository\\IOrderRepository.cs",
+              "ToolTip": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebApiStudy.DataAccess\\IRepository\\IOrderRepository.cs",
+              "RelativeToolTip": "WebApiStudy.DataAccess\\IRepository\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:59:05.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "OrderDTO.cs",
               "DocumentMoniker": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebApiStudy.Dtos\\Order\\OrderDTO.cs",
               "RelativeDocumentMoniker": "WebApiStudy.Dtos\\Order\\OrderDTO.cs",
               "ToolTip": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebApiStudy.Dtos\\Order\\OrderDTO.cs",
               "RelativeToolTip": "WebApiStudy.Dtos\\Order\\OrderDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T12:20:31.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebApiStudy.Service.csproj",
-              "DocumentMoniker": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy.Service\\WebApiStudy.Service.csproj",
-              "RelativeDocumentMoniker": "WebAppStudy.Service\\WebApiStudy.Service.csproj",
-              "ToolTip": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy.Service\\WebApiStudy.Service.csproj",
-              "RelativeToolTip": "WebAppStudy.Service\\WebApiStudy.Service.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-30T12:15:16.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "OrderService.cs",
               "DocumentMoniker": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy.Service\\OrderService.cs",
               "RelativeDocumentMoniker": "WebAppStudy.Service\\OrderService.cs",
               "ToolTip": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy.Service\\OrderService.cs",
               "RelativeToolTip": "WebAppStudy.Service\\OrderService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:19:19.703Z"
+              "WhenOpened": "2024-05-30T12:19:19.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -112,21 +167,23 @@
               "RelativeDocumentMoniker": "WebAppStudy\\Program.cs",
               "ToolTip": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy\\Program.cs",
               "RelativeToolTip": "WebAppStudy\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:19:04.495Z"
+              "WhenOpened": "2024-05-30T12:19:04.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MyController.cs",
               "DocumentMoniker": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy\\Controllers\\MyController.cs",
               "RelativeDocumentMoniker": "WebAppStudy\\Controllers\\MyController.cs",
               "ToolTip": "E:\\PersonalProject\\DotNet-Self-StudyRooms\\Src\\WebAppStudy\\Controllers\\MyController.cs",
               "RelativeToolTip": "WebAppStudy\\Controllers\\MyController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:18:15.944Z"
+              "WhenOpened": "2024-05-30T12:18:15.944Z",
+              "EditorCaption": ""
             }
           ]
         }
