@@ -1,12 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.Filters;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using WebApiStudy.Service.Interface;
 
-namespace WebApiStudy.Service
+namespace WebApiStudy.Api.Filter
 {
     /// <summary>
     /// 自定义过滤器
@@ -21,7 +16,10 @@ namespace WebApiStudy.Service
             _myService = myService;
         }
 
-        public bool IsReusable => throw new NotImplementedException();
+        /// <summary>
+        /// 判断是否支持当前过滤器
+        /// </summary>
+        public bool IsReusable => false;
 
         /// <summary>
         /// 创建一个自定义过滤器实例
@@ -30,7 +28,7 @@ namespace WebApiStudy.Service
         /// <returns></returns>
         public IFilterMetadata CreateInstance(IServiceProvider serviceProvider)
         {
-            return new MyFilter(_myService);
+            return new MyFilterInstance(_myService);
         }
     }
 
@@ -52,7 +50,6 @@ namespace WebApiStudy.Service
         /// <param name="context"></param>
         /// <param name="next"></param>
         /// <returns></returns>
-        /// <exception cref="NotImplementedException"></exception>
         public async Task OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
         {
             // 在执行操作之前执行一些操作

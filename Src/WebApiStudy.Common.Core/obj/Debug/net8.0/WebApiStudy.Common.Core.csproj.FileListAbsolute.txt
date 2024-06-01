@@ -23,3 +23,4 @@ E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\
 E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\WebApiStudy.Common.Core.pdb
 E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\ref\WebApiStudy.Common.Core.dll
 E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\WebApiStudy.Common.Core.csproj.AssemblyReference.cache
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebApiStudy.Common.Core\obj\Debug\net8.0\WebApiStudy.Common.Core.csproj.AssemblyReference.cache

@@ -116,3 +116,7 @@ E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebAppStudy\obj\Debug\net8.0\WebAp
 E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebAppStudy\obj\Debug\net8.0\WebApiStudy.Api.genruntimeconfig.cache
 E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebAppStudy\obj\Debug\net8.0\ref\WebApiStudy.Api.dll
 E:\PersonalProject\DotNet-Self-StudyRooms\Src\WebAppStudy\bin\Debug\net8.0\Serilog.dll
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebAppStudy\bin\Debug\net8.0\Serilog.dll
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebAppStudy\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebAppStudy\bin\Debug\net8.0\System.Web.Http.dll
+D:\Work\Study\DotNet-Self-StudyRooms\Src\WebAppStudy\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
